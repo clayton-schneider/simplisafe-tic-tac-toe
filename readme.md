@@ -1,5 +1,7 @@
 # Clayton X SimpliSafe Take Home Assessment
 
+![assessment challenge](./exercise.png)
+
 ## Assumptions I made
 - The board would be represented by a 4x4 array of arrays
 - The board would consist of moves
